@@ -16,9 +16,8 @@ In this lab, I utilized the **Security Command Center** interface to identify an
 ## 🔧 Tools & Technologies Used
 
 - **Google Cloud Security Command Center:** For centralized threat and vulnerability management.
-- **Vulnerability Scanners:** Tools such as [Nessus](https://www.tenable.com/products/nessus) or [Qualys](https://www.qualys.com/) to detect security weaknesses.
-- **SIEM Solutions:** Platforms like [Splunk](https://www.splunk.com/) or [ELK Stack](https://www.elastic.co/what-is/elk-stack) for log analysis and threat detection.
-- **Endpoint Security Tools:** Solutions like [CrowdStrike](https://www.crowdstrike.com/) or [Carbon Black](https://www.vmware.com/products/carbon-black-cloud.html) for endpoint protection.
+
+
 
 ## 📌 Steps Undertaken
 
